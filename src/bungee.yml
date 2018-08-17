@@ -1,0 +1,4 @@
+name: PLSCore
+main: today.pls.plscore.bungee.PLSBungeeCore
+version: 1.0
+author: RaidAndFade

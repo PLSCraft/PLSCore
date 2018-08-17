@@ -1,0 +1,4 @@
+name: PLSCore
+main: today.pls.plscore.spigot.PLSSpigotCore
+version: 1.0
+author: RaidAndFade

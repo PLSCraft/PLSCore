@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PLSCore">
+    <output-path>$PROJECT_DIR$/out/artifacts/PLSCore</output-path>
+    <root id="archive" name="PLSCore.jar">
+      <element id="module-output" name="PLSCore" />
+    </root>
+  </artifact>
+</component>
